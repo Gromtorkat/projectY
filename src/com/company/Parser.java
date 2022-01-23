@@ -12,6 +12,7 @@ public class Parser {
 //            System.out.println(i + "--" + r[i]);
             temp = ""+ temp + r[i];
             System.out.println(temp);
+            // яри к балбес
         }
         //  char[] JavaCharArray = {'1', '+', '2', '*', '3'};
         return r;
